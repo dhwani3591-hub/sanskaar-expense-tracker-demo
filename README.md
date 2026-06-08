@@ -43,6 +43,13 @@ Every entry writes to a shared sheet instantly — with unique serial numbers, c
 
 **🔎 Smart Filtering with Live Totals**
 Filter by vendor, category, and date range. Summary total updates live with the active filter — useful for monthly reviews or category-wise budget tracking.
+<img width="1179" height="2556" alt="IMG_1166" src="https://github.com/user-attachments/assets/3aeaf1bf-43ea-4ee8-9340-6855efc2e99d" />
+<img width="1179" height="2556" alt="IMG_1169" src="https://github.com/user-attachments/assets/c4ae197b-0eed-4d8f-bb19-552edf5dc4fd" />
+<img width="1179" height="2556" alt="IMG_1168" src="https://github.com/user-attachments/assets/ae50f6cd-775c-418a-9da0-23ded53a9e1a" />
+<img width="1179" height="2556" alt="IMG_1167" src="https://github.com/user-attachments/assets/e43e4e09-7d3d-4143-8f8f-e4b3a7797e45" />
+<img width="1179" height="2556" alt="IMG_1173" src="https://github.com/user-attachments/assets/5be4a14f-0626-4bae-9517-ff70ec4a3dc3" />
+<img width="1179" height="2556" alt="IMG_1172" src="https://github.com/user-attachments/assets/9d2ab229-636c-4714-9411-722b031fd806" />
+<img width="1179" height="2556" alt="IMG_1170" src="https://github.com/user-attachments/assets/10663d39-cd90-4310-9649-e5b2dd036e35" />
 
 ---
 
