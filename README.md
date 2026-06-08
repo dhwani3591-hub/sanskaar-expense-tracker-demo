@@ -43,6 +43,7 @@ Every entry writes to a shared sheet instantly — with unique serial numbers, c
 
 **🔎 Smart Filtering with Live Totals**
 Filter by vendor, category, and date range. Summary total updates live with the active filter — useful for monthly reviews or category-wise budget tracking.
+<img width="1179" height="2556" alt="School Build Tracker jpeg" src="https://github.com/user-attachments/assets/46775381-9b22-4f2e-a6ca-64df0fe1cdc7" />
 <img width="1179" height="2556" alt="IMG_1166" src="https://github.com/user-attachments/assets/3aeaf1bf-43ea-4ee8-9340-6855efc2e99d" />
 <img width="1179" height="2556" alt="IMG_1169" src="https://github.com/user-attachments/assets/c4ae197b-0eed-4d8f-bb19-552edf5dc4fd" />
 <img width="1179" height="2556" alt="IMG_1168" src="https://github.com/user-attachments/assets/ae50f6cd-775c-418a-9da0-23ded53a9e1a" />
